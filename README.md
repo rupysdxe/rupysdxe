@@ -11,6 +11,4 @@
 
 </p>
 
-#### Check out my blog:
 
-https://rupeshnotes.vercel.app

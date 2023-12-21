@@ -11,4 +11,14 @@
 
 </p>
 
+<h3 align="left">What I know</h3>
+1. Java, Hibernate and Spring Boot
+2. Python
+3. HTML, CSS, and Javascript, React JS, Refine, and Express JS.
+4. Little Bit of Go, Gin and GORM. 
+5. AWS(EC2)
+6. Mysql, little bit of MONGODB and Postgres. 
+7. REST APIs.
+
+
 

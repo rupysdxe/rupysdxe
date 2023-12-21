@@ -10,15 +10,3 @@
 <a href="https://linkedin.com/in/rupeshdangi156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshdangi156" height="30" width="40" /></a>
 
 </p>
-
-<h3 align="left">What I know</h3>
-1. Java, Hibernate and Spring Boot
-2. Python
-3. HTML, CSS, and Javascript, React JS, Refine, and Express JS.
-4. Little Bit of Go, Gin and GORM. 
-5. AWS(EC2)
-6. Mysql, little bit of MONGODB and Postgres. 
-7. REST APIs.
-
-
-

@@ -1,12 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rupesh Dangi</h1>
+<h2 align="center"> Hi 👋 , I'm Rupesh Dangi <br/></h2> 
+                
+    
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupysdxe&label=Profile%20views&color=0e75b6&style=flat" alt="rupysdxe" /> </p>
+<h2 align="center">
+Technologies and Languages </h2>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-- 📫 How to reach me **rupesh156.coding@gmail.com**
+<h3> + many more! </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupeshdangi156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshdangi156" height="30" width="40" /></a>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</p>
+
+
+
+
+------
+Credit: [FahimFBA](https://github.com/FahimFBA)
